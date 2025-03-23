@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Efte Hassan Hridoy<br><br>⚡ Fullstack software Developer Come Automaton Developer<br>🎖 Top Rated on Upwork<br>🔭 I’m currently working on Building My Own Git<br>🌱 Currently Learning DataScience and ML<br>👯 Looking to Collaborate on Any Opensource in Golang or Python<br>
+Hi 👋 I'm Efte Hassan Hridoy<br><br>⚡ Fullstack Software Developer Come Automaton Developer<br>🎖 Top Rated on Upwork<br>🔭 I’m currently working on Building My Own Git<br>🌱 Currently Learning DataScience and ML<br>👯 Looking to Collaborate on Any Opensource in Golang or Python<br>
 
 
 ## 🌐 Socials:
